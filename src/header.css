@@ -1,0 +1,95 @@
+.navbar {
+    background-color: white;
+    border-bottom: 1px solid #ccc;
+}
+
+.navbar-brand {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.navbar-menu {
+    display: flex;
+    gap: 15px;
+    margin: 0;
+}
+
+.navbar-menu li {
+    list-style: none;
+    font-weight: 500;
+    padding-top: 5px;
+}
+
+.navbar-menu a {
+    text-decoration: none;
+    font-size: larger;
+    color: black;
+    transition: 0.3s;
+}
+
+.navbar-menu a:hover {
+    color: #0d6efd;
+}
+
+.tel-navbar {
+    text-decoration: none;
+    font-size: larger;
+    margin-top: 7px;
+    color: black;
+    transition: 0.2s;
+}
+
+.tel-navbar:hover {
+    text-decoration: underline;
+    color: #0d6efd;
+}
+
+.btn-login {
+    background-color: #219ebc;
+    color: white;
+    font-weight: bold;
+    border-radius: 20px;
+    padding: 5px 20px;
+    transition: 0.3s;
+    width: 100px;
+}
+
+.btn-login:hover {
+    background-color: #023047;
+    color: white;
+}
+/* Бургер Стили */
+.navbar {
+    background-color: white;
+    border-bottom: 1px solid #ccc;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.nav-link {
+    text-decoration: none;
+    font-size: larger;
+    transition: 0.3s;
+}
+
+.nav-link:hover {
+    color: #0d6efd;
+}
+
+.btn-login {
+    background-color: #219ebc;
+    color: white;
+    font-weight: bold;
+    border-radius: 20px;
+    padding: 5px 20px;
+    transition: 0.3s;
+    width: 100px;
+}
+
+.btn-login:hover {
+    background-color: #023047;
+    color: white;
+}
